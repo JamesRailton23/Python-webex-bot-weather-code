@@ -19,7 +19,7 @@ class WeatherByZIP(Command):
         zip_code = message.strip()
 
         # Define our URL, with requested ZIP code & API Key
-        APIkey = "8cad54f3ba7b5b2079952160429b173a"
+        APIkey = 
         url = "https://api.openweathermap.org/data/2.5/weather?"
         url += f"zip={zip_code},GB&units=metric&appid={APIkey}"
 
