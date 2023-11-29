@@ -8,7 +8,7 @@ from webex_bot.webex_bot import WebexBot
 
 bot = WebexBot(
     teams_bot_token=(
-        "YWZjMjNhMWItZTgxMC00MTNhLTkxOGYtZmRkZTc0Y2Q0ZWEzZDI0OTRiOTctZDI4_PE93_83163ff1-9c48-440d-9531-7664a5bc3cc6"
+        
     ),
     include_demo_commands=True,
 )
